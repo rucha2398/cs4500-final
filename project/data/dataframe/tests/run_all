@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# this is an executable to run all of the submitted_test_* files
+./submitted_test_1 
+./submitted_test_2
+./submitted_test_3
+./submitted_test_4
+./submitted_test_5
+./submitted_test_6
+./submitted_test_7

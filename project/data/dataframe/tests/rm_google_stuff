@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+# this is an executable used to clean up this tests folder before submitting
+rm -f -r bin
+rm -f CMakeCache.txt
+rm -f -r CMakeFiles
+rm -f cmake_install.cmake
+rm -f -r googletest-build
+rm -f -r googletest-download
+rm -f -r googletest-src
+rm -f -r lib
+rm -f Makefile
+rm -f submitted_test_1
+rm -f submitted_test_2
+rm -f submitted_test_3
+rm -f submitted_test_4
+rm -f submitted_test_5
+rm -f submitted_test_6
+rm -f submitted_test_7
